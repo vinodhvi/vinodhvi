@@ -3,7 +3,7 @@
 I'm Vinodh V
 
 💻  About Me
-🤔   skilled software development professional bringing 4 years of experience in software design, development, and integration.
+🤔   skilled software development professional bringing 3.5 years of experience in software design, development, and integration.
 🤔   Exploring new technologies and developing software solutions to our tech problems.
 🤔   Exercised knowledge of IT concepts, strategies, and methodologies.
 🤔   Expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs.
